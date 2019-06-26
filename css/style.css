@@ -387,7 +387,7 @@ a{
   color: #E69D8A;
 }
 a:hover {
-  color: #C79B8E;
+  color: #ffb6a3;
 }
 
 .cont-title {
@@ -438,7 +438,7 @@ a:hover {
 }
 
 .footer-copyright {
-  color: #FFB6A3;
+  color: #FACEC1;
   line-height: 32px;
   text-align: left;
 }
