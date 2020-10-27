@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-  color: #FFB6A3;
+  color: #8EA485;
   text-transform: uppercase;
 	background-color: transparent;
 }
@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-  color: #FFB6A3;
+  color: #8EA485;
 }
 
 .navbar-fixed-top {
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   border-radius: 0px;
   letter-spacing: 1px;
-  color: #333;
+  color: #F7F3F0;
   position: relative;
   overflow: hidden;
   -webkit-transition: all 0.4s ease-in-out;
@@ -377,14 +377,14 @@ h3.txt-tl {
 .btn-send {
   border-radius: 0px;
   color: #000;
-  background-color: #FFB6A3;
+  background-color: #8EA485;
 }
 
 a{
-  color: #E69D8A;
+  color: #3C533C;
 }
 a:hover {
-  color: #FFB6A3;
+  color: #8EA485;
 }
 
 .cont-title {
