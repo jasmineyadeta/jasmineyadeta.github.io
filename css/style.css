@@ -295,12 +295,10 @@ h3.txt-tl {
   background-attachment: fixed;
   background-repeat: repeat-y;
   background-position: center center;
-  background-size: cover;
-
 }
 
 .bg-image-2 {
-  background: url('../img/city00.jpg') no-repeat center fixed;
+  background: url('../img/city00.jpg');
   -webkit-background-size: 100% auto;
   -moz-background-size: 100% auto;
   -o-background-size: 100% auto;
