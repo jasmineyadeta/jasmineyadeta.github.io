@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-  color: #8EA485;
+  color: #566D56;
   text-transform: uppercase;
 	background-color: transparent;
 }
@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-  color: #8EA485;
+  color: #566D56;
 }
 
 .navbar-fixed-top {
@@ -161,14 +161,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-submit {
-  background: #3C533C;
+  background: #566D56;
   border: 0px;
   display: inline-block;
   font-size: 16px;
   text-transform: uppercase;
-  padding: 10px 40px;
+  padding: 11px 40px;
   font-weight: normal;
-  border-radius: 0px;
+  border-radius: 10px;
   letter-spacing: 1px;
   color: #F7F3F0;
   position: relative;
@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   margin-top: 25px;
-  border: 2px solid #3C533C;
+  border: 2px solid #566D56;
 }
 
 .btn-submit:hover {
@@ -188,6 +188,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 /** dropdown menu in nav bar**/
 
+.btn-nav {
+  border: 2px solid #566D56;
+  padding: 11px 40px;
+  border-radius: 10px;
+
+}
 
 li.dropdown:hover > .dropdown-menu  {
     display: block;
@@ -289,6 +295,8 @@ h3.txt-tl {
   background-attachment: fixed;
   background-repeat: repeat-y;
   background-position: center center;
+  background-size: cover;
+
 }
 
 .bg-image-2 {
@@ -381,7 +389,7 @@ h3.txt-tl {
 }
 
 a{
-  color: #3C533C;
+  color: #566D56;
 }
 a:hover {
   color: #8EA485;
