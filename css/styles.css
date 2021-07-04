@@ -1,7 +1,7 @@
 
 /* GLOBAL STYLES */
 * {
-  font-family: 'DM Sans', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   color: #212121;
   /* font-size: 1rem; */
   font-weight: 400;
@@ -41,7 +41,15 @@ h1.bold {
   font-size: 16px;
   padding-bottom: 20px;
 }
-
+ 
+ .logo-image{
+    max-width: 46px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+}
 
 /* WORK SECTION */
 
@@ -115,10 +123,7 @@ h1.bold {
     display: inline-block;
     padding: 4px 8px;
   }
-  /* #shopify-case-study .tag_case_study {
-    color: #385525;
-    background-color: #CFEDCB;
-  } */
+
   .design-read-study-btn {
     color: white;
     font-size: 12px;
@@ -132,7 +137,7 @@ h1.bold {
   }
 
   .design-read-study-btn:hover, .design-read-study-btn:focus, .design-read-study-btn:active {
-    background-color: #fbd546;
+    background-color: #E55934;
     outline: none;
   }
 
@@ -180,7 +185,7 @@ h1.bold {
 
 /*  -------- */
 a {
-  color: #566D56
+  color: #E55934
 }
 
 a.link-underline {
@@ -188,10 +193,9 @@ a.link-underline {
 }
 a:hover, a:active, a:focus {
   text-decoration: underline;
-  color: #fbd546;
+  color: #E55934;
   outline: none;
 }
-
 
 
 #name-logo {
@@ -230,22 +234,21 @@ a:hover, a:active, a:focus {
 
 .nav-bar-link > a {
   color: black;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .nav-bar-link > a:hover,
 .nav-bar-link  > a:focus,
 .nav-bar-link > a:active {
-  color: #566D56;
+  color: #E55934;
   text-decoration: none;
 }
 
 #nav-bar-link-name {
   float: left;
   margin: 0 16px 0 0 ;
+  color: #E55934;
 }
-
-
 
 .container-fluid {
   padding: 0;
@@ -258,14 +261,14 @@ a:hover, a:active, a:focus {
 
 
 i {
-  color: #566D56;
+  color: #E55934;
   padding-right: 16px;
 }
 
 i:hover,
 i:active,
 i:focus {
-  color: #fbd546;
+  color: #E55934;
   cursor: pointer;
   outline: none;
 }
@@ -541,7 +544,11 @@ a.project-tab-bar-current {
 }
 
 .profile-image {
-  max-width: 170px;
+  max-width: 200px;
+}
+
+.logo-image {
+  max-width: 45px;
 }
 
 .about-me-description {
