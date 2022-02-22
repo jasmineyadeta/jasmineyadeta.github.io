@@ -137,7 +137,7 @@ h1.bold {
   }
 
   .design-read-study-btn:hover, .design-read-study-btn:focus, .design-read-study-btn:active {
-    background-color: #E55934;
+    background-color: #EE1D52;
     outline: none;
   }
 
@@ -185,7 +185,7 @@ h1.bold {
 
 /*  -------- */
 a {
-  color: #E55934
+  color: #EE1D52
 }
 
 a.link-underline {
@@ -193,7 +193,7 @@ a.link-underline {
 }
 a:hover, a:active, a:focus {
   text-decoration: underline;
-  color: #E55934;
+  color: #EE1D52;
   outline: none;
 }
 
@@ -240,14 +240,14 @@ a:hover, a:active, a:focus {
 .nav-bar-link > a:hover,
 .nav-bar-link  > a:focus,
 .nav-bar-link > a:active {
-  color: #E55934;
+  color: #EE1D52;
   text-decoration: none;
 }
 
 #nav-bar-link-name {
   float: left;
   margin: 0 16px 0 0 ;
-  color: #E55934;
+  color: #EE1D52;
 }
 
 .container-fluid {
@@ -261,14 +261,14 @@ a:hover, a:active, a:focus {
 
 
 i {
-  color: #E55934;
+  color: #EE1D52;
   padding-right: 16px;
 }
 
 i:hover,
 i:active,
 i:focus {
-  color: #E55934;
+  color: #EE1D52;
   cursor: pointer;
   outline: none;
 }
